@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Fake Shoe 1",
+        "price": 200,
+        "count":40,
+        "image": { "fields": { "file": { "url": "./images/shoes3.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Fake Shoe 2",
+        "price": 67,
+        "count":34,
+        "image": { "fields": { "file": { "url": "./images/shoes6.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Fake Shoe 3",
+        "price": 132,
+        "count":38,
+        "image": { "fields": { "file": { "url": "./images/shoes7.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Fake Shoe 4",
+        "price": 190,
+        "count":23,
+        "image": { "fields": { "file": { "url": "./images/shoes2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Fake Shoe 5",
+        "price": 125,
+        "count":14,
+        "image": { "fields": { "file": { "url": "./images/shoes3.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Fake Shoe 6",
+        "price": 178,
+        "count":10,
+        "image": { "fields": { "file": { "url": "./images/shoes4.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Fake Shoe 7",
+        "price": 40,
+        "count":47,
+        "image": { "fields": { "file": { "url": "./images/shoes5.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Fake Shoe 8",
+        "price": 220,
+        "count":23,
+        "image": { "fields": { "file": { "url": "./images/shoes6.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Fake Shoe 9",
+        "price": 140,
+        "count":98,
+        "image": { "fields": { "file": { "url": "./images/shoes7.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Fake Shoe 10",
+        "price": 190,
+        "count":35,
+        "image": { "fields": { "file": { "url": "./images/shoes8.png" } } }
+      }
+    }
+  ]
+}
